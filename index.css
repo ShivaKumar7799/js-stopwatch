@@ -5,9 +5,12 @@ body{
 #start{
         background-color: white;
         color: black;
-        padding: 10px;
-        border-radius: 15px;
-        border:1px solid salmon
+        padding: 5px;
+        border-radius: 25px;
+        border:1px solid salmon;
+        font-weight: 700;
+        width: 80px;
+        font-size: 20px;
 }
 #start:hover{
         background-color: rgb(71, 185, 71);
@@ -27,6 +30,7 @@ body{
         padding: 8px;
         background-color: white;;
         color: black;
+        font-weight: 600;
         border: 1px solid red;
         border-radius: 12px;
 }
@@ -37,8 +41,9 @@ body{
 }
 
 #result{
-        font-size: 30px;
+        font-size: 35px;
         color: black;
+        font-weight: 500;
 }
 #heading{
         color: blue;
